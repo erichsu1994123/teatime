@@ -2,8 +2,10 @@ public class HelloWorld {
     
     public static void main(String[] args){
 
-        System.out.println("Hi¡A¦³¨S¦³¦n¦Yªº@_@" + args[0]);
-        System.out.println("Hi¡A¦³¨S¦³¦n¦Yªº>_<" + args[0]);
+        System.out.println("Hiï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½nï¿½Yï¿½ï¿½@_@" + args[0]);
+        //System.out.println("Hiï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½nï¿½Yï¿½ï¿½>_<" + args[0]);
+		//System.out.println("Hiï¿½Aï¿½ï¿½ï¿½Sï¿½ï¿½ï¿½nï¿½Yï¿½ï¿½>_0" + args[0]);
+		
     }
 
 
